@@ -75,6 +75,9 @@ main div {
 
 button {
     margin-top: auto;
+    padding: 12px 25px;
+    border: 2px solid hsl(0, 0%, 95%);
+    border-radius: 50px;
 }
 
 div img {
