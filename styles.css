@@ -33,10 +33,14 @@ button {
 
 p {
     color: hsla(0, 0%, 100%, 0.75);
+    line-height: 24px;
+    font-size: 0.92rem;
 }
 
 h1 {
     color: hsl(0, 0%, 95%);
+    font-size: 2.5rem;
+    margin: 32px 0 25px 0;
 }
 
 button {
@@ -60,7 +64,7 @@ main {
 }
 
 main div {
-    padding: 40px;
+    padding: 45px 50px 45px 45px;
     width: 290px;
     height: 475px;
     display: flex;
