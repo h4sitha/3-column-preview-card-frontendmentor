@@ -43,3 +43,7 @@ button {
 #luxury {
     background-color: hsl(179, 100%, 13%);
 }
+
+main {
+    display: flex;
+}
