@@ -26,11 +26,6 @@ h1 {
     text-transform: uppercase;
 }
 
-button {
-    font-family: inherit;
-    font-size: inherit;
-}
-
 p {
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 24px;
@@ -41,10 +36,6 @@ h1 {
     color: hsl(0, 0%, 95%);
     font-size: 2.5rem;
     margin: 32px 0 25px 0;
-}
-
-button {
-    background-color: hsl(0, 0%, 95%);
 }
 
 #sedans {
@@ -76,6 +67,9 @@ main div {
 }
 
 button {
+    font-family: inherit;
+    font-size: inherit;
+    background-color: hsl(0, 0%, 95%);
     margin-top: auto;
     padding: 12px 25px;
     border: 2px solid hsl(0, 0%, 95%);
