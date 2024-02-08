@@ -54,3 +54,9 @@ button {
 main {
     display: flex;
 }
+
+main div {
+    padding: 40px;
+    width: 290px;
+    height: 475px;
+}
