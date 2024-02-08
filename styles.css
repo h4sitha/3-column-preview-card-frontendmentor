@@ -80,3 +80,9 @@ button {
 div img {
     order: -1;
 }
+
+button:hover {
+    background-color: transparent;
+    color: hsl(0, 0%, 95%);
+    cursor: pointer;
+}
