@@ -54,6 +54,8 @@ h1 {
 
 main {
     display: flex;
+    max-width: 870px;
+    width: 90%;
 }
 
 main div {
