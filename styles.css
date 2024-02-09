@@ -79,6 +79,7 @@ button {
     border: 2px solid hsl(0, 0%, 95%);
     border-radius: 50px;
     mix-blend-mode: screen;
+    font-weight: bold;
 }
 
 div img {
@@ -89,6 +90,7 @@ button:hover {
     background-color: transparent;
     color: hsl(0, 0%, 95%);
     cursor: pointer;
+    font-weight: normal;
 }
 
 @media (max-width: 376px) {
