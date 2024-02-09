@@ -103,4 +103,8 @@ button:hover {
         margin-bottom: 30px;
     }
 
+    main div {
+        padding: 55px;
+    }
+
 }
