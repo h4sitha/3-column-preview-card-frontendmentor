@@ -111,4 +111,9 @@ button:hover {
         width: 93%;
     }
 
+    button {
+        padding: 15px 30px;
+        font-size: 1.1rem;
+    }
+
 }
