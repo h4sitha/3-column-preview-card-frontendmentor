@@ -125,3 +125,15 @@ button:hover {
     }
 
 }
+
+@media (max-width: 343px) {
+
+    main div {
+        height: fit-content;
+    }
+
+    button {
+        margin-top: 25px;
+    }
+
+}
